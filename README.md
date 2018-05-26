@@ -1,2 +1,2 @@
 # Image-Segmentation
-I contains all codes and presentation of our summer internship 2018 
+It contains all codes and presentation of our summer internship 2018 
